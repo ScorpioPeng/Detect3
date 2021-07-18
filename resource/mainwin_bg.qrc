@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="main_bg">
+    <file>images/bg.png</file>
+  </qresource>
+  <qresource prefix="mainicon">
+    <file>images/icon.png</file>
+  </qresource>
+</RCC>
